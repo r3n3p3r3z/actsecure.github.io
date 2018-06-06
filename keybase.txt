@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/r3n3
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://actsecure.github.io
+  * I am r3n3 (https://keybase.io/r3n3) on keybase.
+  * I have a public key ASDqRglyWOb7p84RKzAxCCRUoXi1xzYeFgl0OrMaGs2usQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ea46097258e6fba7ce112b3031082454a178b5c7361e1609743ab31a1acdaeb10a",
+      "host": "keybase.io",
+      "kid": "0120ea46097258e6fba7ce112b3031082454a178b5c7361e1609743ab31a1acdaeb10a",
+      "uid": "c6cddba0cfab262010793ccd1fed6d19",
+      "username": "r3n3"
+    },
+    "merkle_root": {
+      "ctime": 1528302195,
+      "hash": "c639df91f262f3fceb82aa2ccc15a61bb6b29885ffa6b697a2e63776c601d20a714b1d66fb033a32c57a72731d276b1ced25b12b9686abf17631e60e5932c8ca",
+      "hash_meta": "ba33523349cd580c2d8eb7cff008871175b882e0f5afb374772408dbbc33580b",
+      "seqno": 3034911
+    },
+    "service": {
+      "entropy": "39RZtpjZWiXaGJ7y/6BDTga6",
+      "hostname": "actsecure.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.0.0"
+  },
+  "ctime": 1528302237,
+  "expire_in": 504576000,
+  "prev": "ecb99dd16ac192abba67ce2f4ea64482cc88f06b958ec2467d6147c25136ff65",
+  "seqno": 29,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg6kYJcljm+6fOESswMQgkVKF4tcc2HhYJdDqzGhrNrrEKp3BheWxvYWTESpcCHcQg7Lmd0WrBkqu6Z84vTqZEgsyI8GuVjsJGfWFHwlE2/2XEIJcZ+JhdO0PGaJINlCgFO2N4xF5vS/LIxG35sX0t10qVAgHCo3NpZ8RAexRNj03EayfJOK8x6r5oWyH8Vz6SCAHL+y+9j8zu+yOGKWHIqMuI4LoE89KZRlGUtSTxiJXOUGTbgwpGVxz1AahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIK8+5jngAuQRNoFYJk0hNOLYbugCaVPIB1Jtj7lI1miJo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/r3n3
+
+==================================================================
